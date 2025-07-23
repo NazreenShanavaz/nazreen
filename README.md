@@ -10,8 +10,7 @@ Welcome to my GitHub! I'm currently diving deep into the world of coding, with a
 - 🌱 Currently learning **Python**, and exploring **Web Development**, **DSA**, and **Projects** that make a difference.
 - 🧠 Interested in **Startups**, **Stock Market**, and becoming financially independent.
 - 🔭 Working on cool ideas like:
-  - **Face Recognition Attendance System**
-  - **Virtual Internship Tracker App**
+  - pneumonia detection using deep learning
   - And dreaming up more unique solutions for today’s world 🚀
 
 ---
