@@ -7,11 +7,11 @@ Welcome to my GitHub! I'm currently diving deep into the world of coding, with a
 ---
 
 ## 💡 About Me
-- 🌱 Currently learning **Python**, and exploring **Web Development**, **DSA**, and **Projects** that make a difference.
-- 🧠 Interested in **Startups**, and becoming financially independent.
-- 🔭 Working on cool ideas like:
+- Currently learning **Python**, and exploring **Web Development**, **DSA**, and **Projects** that make a difference.
+- Interested in **Startups**, and becoming financially independent.
+- Working on cool ideas like:
   - pneumonia detection using deep learning
-  - And dreaming up more unique solutions for today’s world 🚀
+  - And dreaming up more unique solutions for today’s world 
 
 ---
 
