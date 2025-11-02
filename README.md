@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Nazreen Shanavaz!
 
-### 🎓 Computer Science Engineering Student | 💻 Aspiring Developer | 🚀 Future Entrepreneur
+### 🎓 Computer Science Engineering Student | 💻 Aspiring Developer 
 
 Welcome to my GitHub! I'm currently diving deep into the world of coding, with a passion for learning, building, and exploring how technology can solve real-world problems.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm currently diving deep into the world of coding, with a
 
 ## 💡 About Me
 - 🌱 Currently learning **Python**, and exploring **Web Development**, **DSA**, and **Projects** that make a difference.
-- 🧠 Interested in **Startups**, **Stock Market**, and becoming financially independent.
+- 🧠 Interested in **Startups**, and becoming financially independent.
 - 🔭 Working on cool ideas like:
   - pneumonia detection using deep learning
   - And dreaming up more unique solutions for today’s world 🚀
@@ -16,17 +16,17 @@ Welcome to my GitHub! I'm currently diving deep into the world of coding, with a
 ---
 
 ## ⚙️ Tech Stack I'm Exploring:
-- 💻 Languages: `Python`, `C`, `HTML`, `CSS`
-- 🛠️ Tools: `Git`, `VS Code`, `Notion`, `Figma`
-- 📊 Learning: `Data Structures & Algorithms`, `Database Basics`, `Frontend Web`
+- Languages: `Python`, `C`, `HTML`, `CSS`
+- Tools: `Git`, `VS Code`, `Notion`, `Figma`
+- Learning: `Data Structures & Algorithms`, `Database Basics`, `Frontend Web`
 
 ---
 
 ## 🧠 Learning Goals (2025 and beyond):
-- Build real projects that solve real problems 🌍
+- Build real projects that solve real problems 
 - Become job-ready with strong **aptitude + coding + soft skills**
-- Learn **Stock Market Basics** & how tech can support financial freedom 💰
-- Start something of my own someday 🤞✨
+- Learn **Stock Market Basics** & how tech can support financial freedom 
+- Start something of my own someday 
 
 ---
 
