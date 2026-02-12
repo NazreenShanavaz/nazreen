@@ -1,42 +1,50 @@
-# 👋 Hey there, I'm Nazreen Shanavaz!
+# 👋 Hi, I'm Nazreen Shanavaz  
 
-### 🎓 Computer Science Engineering Student | 💻 Aspiring Developer 
+### 🎓 Computer Science Engineering Student (2026) | Python & Problem-Solving Enthusiast  
 
-Welcome to my GitHub! I'm currently diving deep into the world of coding, with a passion for learning, building, and exploring how technology can solve real-world problems.
-
----
-
-## 💡 About Me
-- Currently learning **Python**, and exploring **Web Development**, **DSA**, and **Projects** that make a difference.
-- Interested in **Startups**, and becoming financially independent.
-- Working on cool ideas like:
-  - pneumonia detection using deep learning
-  - And dreaming up more unique solutions for today’s world 
+Welcome to my GitHub! I’m a final-year Computer Science student who enjoys learning by building. I believe growth comes from consistency, curiosity, and stepping outside your comfort zone.
 
 ---
 
-## ⚙️ Tech Stack I'm Exploring:
-- Languages: `Python`, `C`, `HTML`, `CSS`
-- Tools: `Git`, `VS Code`, `Notion`, `Figma`
-- Learning: `Data Structures & Algorithms`, `Database Basics`, `Frontend Web`
+## 💡 About Me  
+
+- Currently strengthening my skills in **Python**, **Data Structures & Algorithms**, and **Backend Development**
+- Exploring how software and intelligent systems can solve meaningful real-world problems
+- Interested in building scalable applications and improving logical thinking
+- Focused on continuous self-improvement and long-term career growth
 
 ---
 
-## 🧠 Learning Goals (2025 and beyond):
-- Build real projects that solve real problems 
-- Become job-ready with strong **aptitude + coding + soft skills**
-- Learn **Stock Market Basics** & how tech can support financial freedom 
-- Start something of my own someday 
+## ⚙️ Tech Stack  
+
+**Languages:** Python, C, HTML, CSS  
+**Core Concepts:** OOP, DSA (Basics), Problem-Solving  
+**Web & Backend:** REST APIs (Basics), Learning Django/Flask  
+**Databases:** SQL (Fundamentals)  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📬 Let's Connect!
-- 🌐 www.linkedin.com/in/nazreens
-- 📧 Email: nazreenshanavaz@gmail.com 
-- 💬 DM-friendly — Always happy to talk about tech, ideas, or even travel and solo walks 🌸
+## 🚀 Current Focus  
+
+- Academic Project: *Pneumonia Detection using Deep Learning*
+- Practicing DSA consistently to improve coding confidence
+- Building backend mini-projects using Python
+- Strengthening communication and technical fundamentals
 
 ---
-*"Consistency, not speed, wins the race."* — Let’s keep learning, building, and dreaming!
 
-Thanks for stopping by ❤️
+## 🎯 Career Goal  
 
+To grow into a skilled software engineer who builds impactful solutions, contributes to meaningful projects, and continuously adapts to evolving technologies.
+
+---
+
+## 📬 Connect With Me  
+
+- LinkedIn: https://www.linkedin.com/in/nazreens  
+- Email: nazreenshanavaz@gmail.com  
+
+---
+
+✨ *Consistency over perfection. Learning over fear. Growth over comfort.*
