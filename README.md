@@ -43,7 +43,7 @@ To grow into a skilled software engineer who builds impactful solutions, contrib
 ## 📬 Connect With Me  
 
 - LinkedIn: https://www.linkedin.com/in/nazreens  
-- Email: nazreenshanavaz@gmail.com  
+- Email: nazreenshanavaz2004@gmail.com  
 
 ---
 
